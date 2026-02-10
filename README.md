@@ -99,10 +99,6 @@
 |<img width="1012" height="546" alt="리뷰수 대 관광소비금액 (선형 회귀선) 관계" src="https://github.com/user-attachments/assets/445f027a-ad5c-41f3-9311-a05c10c6da45" />|
 |리뷰 수가 많다고 소비를 많이 하는 것은 아님, 리뷰의 양(수)보다 리뷰의 질(평점)이 관광 소비에 더 중요한 요인으로 작용|
 
-|분포도|
-|:---:|
-|<img width="1181" height="688" alt="시도명별로 리뷰 수 분포" src="https://github.com/user-attachments/assets/ae389151-8b43-49ff-8371-89f2a56aeae2" />|
-
 |히트맵|
 |:---:|
 |<img width="766" height="681" alt="주요 관광 및 sns 언급 빈도 지표 간 상관관계" src="https://github.com/user-attachments/assets/ae465dd0-77fc-4203-b56e-9e56ce232839" />|
