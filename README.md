@@ -30,12 +30,14 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 
 ### 2.1 데이터 선택
 관광지별 소셜 언급량, 구글 평점 및 리뷰 개수, 관광객 수, 관광 소비액 등의 정보를 포함
+
 **데이터 출처**
 문화 빅데이터 플랫폼 : https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=265dad48-d0bd-46ec-a8a4-a93b227d0b42#!
 
 ---
 
 ### 2.2. 데이터 구조
+
 |컬럼영문명|컬럼한글명|
 |---|---|
 |TRRSRT_NM|관광지명|
@@ -59,8 +61,10 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 |TURSM_SPND_PRICE|관광소비금액|
 |NATIVE_TURSM_SPND_PRICE|내국인관광소비금액|
 |FRNR_TURSM_SPND_PRICE|외국인관광소비금액|
+
 #### **분석 타겟 컬럼**
 - `NEXT_GROWTH_LABEL` : 다음달 관광 소비 금액 상승 여부 (0 or 1)
+  
 #### **주요 변수**
 - **기본**: 관광객 수, 내국인 소비 금액, 리뷰 수, 평균 평점
 - **SNS**: SNS 빈도수(`BASE_YM_FQ_CO`), 전월 빈도수(`BASE_YEAR_BEFORE_MT_FQ_CO`)
@@ -70,8 +74,10 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 ## 3. 데이터 기초 통계량
 <img width="1589" height="166" alt="image" src="https://github.com/user-attachments/assets/742bee4b-aa63-4ec9-98db-650ee1e2546a" />
 
-
 ## 4. 데이터 전처리 및 EDA (탐색적 데이터 분석)
+
+<img width="192" height="511" alt="시도별 이상치 사진" src="https://github.com/user-attachments/assets/0a30f775-9949-4617-8335-f00e0efa893e" />
+
 
 ### 4.1 데이터 조회
 <img width="403" height="365" alt="스크린샷 2026-02-10 201808" src="https://github.com/user-attachments/assets/a48dca90-1ec5-4e7d-b3d3-17b9cad4bd32" />
