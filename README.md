@@ -20,7 +20,7 @@
 <img width="639" height="826" alt="스크린샷 2026-02-10 193306" src="https://github.com/user-attachments/assets/24192bb2-4f93-4370-8854-81f10ed533c5" />
 
 ### 1.1 프로젝트 주제 선정 배경
-전 세계적으로 K-컬처가 유행하며 수많은 관광객이 SNS에 관련 콘텐츠를 쏟아내고 있습니다. 저희 팀은 **"온라인상의 뜨거운 관심이 실제 지역 경제 성장에 얼마나 기여하는가?"**라는 질문에서 시작했습니다. 단순한 유행을 넘어, 디지털 데이터가 실질적인 지역 활성화의 지표가 될 수 있는지 확인하고자 합니다.
+전 세계적으로 K-컬처가 유행하며 수많은 관광객이 SNS에 관련 콘텐츠를 쏟아내고 있습니다. 저희 팀은 **"온라인상의 뜨거운 관심이 실제 지역 경제 성장에 얼마나 기여하는가?"** 라는 질문에서 시작했습니다. 단순한 유행을 넘어, 디지털 데이터가 실질적인 지역 활성화의 지표가 될 수 있는지 확인하고자 합니다.
 
 ### 1.2 프로젝트 목적
 ‘온라인(SNS)의 언급량이 오프라인의 소비 지출량에 영향을 끼칠 것이다’ 라는 가설을 통해 전국의 시군구별 각 관광지의 데이터를 분석하여 가설을 검증하는 활동을 진행하는것 뿐만 아니라 지속적인 성장을 머신러닝을 통해 학습하고 지역 성장률 예측을 통해 관련 정책 및 행사 유치 정보를 제공하는 것이 목적이다. 
@@ -73,38 +73,47 @@
 <br>
 
 ## 3. 데이터 기초 통계량
-
-<img width="1589" height="166" alt="image" src="https://github.com/user-attachments/assets/742bee4b-aa63-4ec9-98db-650ee1e2546a" />
+<img width="1589" height="166" alt="image" src="https://github.com/user-attachments/assets/742bee4b-aa63-4ec9-98db-650ee1e2546a"/>
 
 ## 4. 데이터 전처리 및 EDA (탐색적 데이터 분석)
+
+### 4.1 이상치 수정
 |이상치 확인|이상치 수정|결과값|
 |:---:|:---:|:---:|
 |<img width="192" height="511" alt="시도별 이상치 사진" src="https://github.com/user-attachments/assets/0a30f775-9949-4617-8335-f00e0efa893e" />|<img width="200" height="276" alt="image" src="https://github.com/user-attachments/assets/54995e18-16f3-4cb9-ae73-8e1cc53ba0f3" />|<img width="196" height="332" alt="스크린샷 2026-02-11 오전 12 50 55" src="https://github.com/user-attachments/assets/fef5f234-dd30-4877-bb11-ea7d094fa0b6" />|
 |<img width="133" height="505" alt="이상치 변경전" src="https://github.com/user-attachments/assets/103cd8c7-fa67-467e-908e-72aa8d03fa3b" />|<img width="217" height="508" alt="시군구 이상치 수정" src="https://github.com/user-attachments/assets/ebd8e7f7-9fa5-463f-a37b-3747adb32d67" />|<img width="191" height="543" alt="이상치 변경후" src="https://github.com/user-attachments/assets/31db3d52-fd48-49fc-9097-665aed9e2d06" />|
 
 
-### 4.1 데이터 조회
+### 4.2 데이터 조회
 <img width="463" height="421" alt="image" src="https://github.com/user-attachments/assets/36014529-569a-4416-b011-deb50dfa5017" />
 
-### 4-2. 그래프 시각화
+### 4.3 그래프 시각화
 
-#### 막대그래프
-<img width="1143" height="658" alt="상위 15개 시- 관광소비금액 평균" src="https://github.com/user-attachments/assets/abdcdf9d-26d8-4cd8-8b20-82594ebc28ef" />
+|막대그래프|
+|:---:|
+|<img width="1143" height="658" alt="상위 15개 시- 관광소비금액 평균" src="https://github.com/user-attachments/assets/abdcdf9d-26d8-4cd8-8b20-82594ebc28ef"/>|
+|수도인 서울의 소비금액이 가장 높았으며, 서울 내에서는 강남구가 소비 지역 1위 |
 
-#### 산점도
-<img width="1012" height="546" alt="리뷰수 대 관광소비금액 (선형 회귀선) 관계" src="https://github.com/user-attachments/assets/445f027a-ad5c-41f3-9311-a05c10c6da45" />
+|산점도|
+|:---:|
+|<img width="1012" height="546" alt="리뷰수 대 관광소비금액 (선형 회귀선) 관계" src="https://github.com/user-attachments/assets/445f027a-ad5c-41f3-9311-a05c10c6da45" />|
+|단순히 리뷰 수가 많다고 소비를 하는 것은 아니라는 점도 확인. 리뷰의 양(수)보다 리뷰의 질(평점)이 관광 소비에 더 중요한 요인으로 작용함|
 
-#### 분포도
-<img width="1181" height="688" alt="시도명별로 리뷰 수 분포" src="https://github.com/user-attachments/assets/ae389151-8b43-49ff-8371-89f2a56aeae2" />
+|분포도|
+|:---:|
+|<img width="1181" height="688" alt="시도명별로 리뷰 수 분포" src="https://github.com/user-attachments/assets/ae389151-8b43-49ff-8371-89f2a56aeae2" />|
 
-#### 히트맵
-<img width="766" height="681" alt="주요 관광 및 sns 언급 빈도 지표 간 상관관계" src="https://github.com/user-attachments/assets/ae465dd0-77fc-4203-b56e-9e56ce232839" />
+|히트맵|
+|:---:|
+|<img width="766" height="681" alt="주요 관광 및 sns 언급 빈도 지표 간 상관관계" src="https://github.com/user-attachments/assets/ae465dd0-77fc-4203-b56e-9e56ce232839" />|
 
-#### 관광 효율성 
-<img width="1300" height="623" alt="관광 효율" src="https://github.com/user-attachments/assets/13e8709c-d93f-4209-b018-39af98fd053e" />
+|관광 효율성|
+|:---:|
+|<img width="1300" height="623" alt="관광 효율" src="https://github.com/user-attachments/assets/13e8709c-d93f-4209-b018-39af98fd053e" />|
 
-### 만족도와 리뷰수 살펴보기
-<img width="589" height="616" alt="리뷰 수 인기 대 만족도" src="https://github.com/user-attachments/assets/6fbd1263-923f-40d8-ab49-87b4bf711878" />
+|만족도와 리뷰수 살펴보기|
+|:---:|
+|<img width="589" height="616" alt="리뷰 수 인기 대 만족도" src="https://github.com/user-attachments/assets/6fbd1263-923f-40d8-ab49-87b4bf711878" />|
 
 ### 관광객 수와 소비금액의 관계
 <img width="676" height="578" alt="스크린샷 2026-02-10 192426" src="https://github.com/user-attachments/assets/5ac1b642-0259-4724-8dd6-c017424fe02f" />
