@@ -97,13 +97,13 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 
 #### - 테스트 모델 및 하이퍼파라미터 후보군
 
-- Random Forest : 랜덤 포레스트 회귀 <br>
+- Random Forest : 랜덤 포레스트 <br>
 <img width="562" height="645" alt="image" src="https://github.com/user-attachments/assets/0f3681fb-7cc6-438d-b470-f1faeb750248" />
 
-- Gradient Boosting : 그래디언트 부스팅 회귀 <br>
+- Gradient Boosting : 그래디언트 부스팅 <br>
 <img width="516" height="485" alt="image" src="https://github.com/user-attachments/assets/06529e05-8a88-4138-b0fc-f0b5f0a0d2ef" />
 
-- XGBoost : eXtreme Gradient Boosting 회귀 <br>
+- XGBoost : eXtreme Gradient Boosting <br>
 <img width="495" height="601" alt="image" src="https://github.com/user-attachments/assets/34903874-ef56-4433-bfe2-94860cd85743" />
 
 각 모델별로 다양한 하이퍼파라미터 후보군을 설정하여 성능을 비교함
