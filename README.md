@@ -76,8 +76,9 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 ## 4. 데이터 전처리 및 EDA (탐색적 데이터 분석)
 |이상치 확인|이상치 수정|결과값|
 |:---:|:---:|:---:|
-|<img width="192" height="511" alt="시도별 이상치 사진" src="https://github.com/user-attachments/assets/0a30f775-9949-4617-8335-f00e0efa893e" />|<img width="217" height="508" alt="시군구 이상치 수정" src="https://github.com/user-attachments/assets/ebd8e7f7-9fa5-463f-a37b-3747adb32d67" />|<img width="196" height="332" alt="스크린샷 2026-02-11 오전 12 50 55" src="https://github.com/user-attachments/assets/fef5f234-dd30-4877-bb11-ea7d094fa0b6" />|
-|<img width="133" height="505" alt="이상치 변경전" src="https://github.com/user-attachments/assets/103cd8c7-fa67-467e-908e-72aa8d03fa3b" />|<img width="217" height="508" alt="시군구 이상치 수정" src="https://github.com/user-attachments/assets/4a188523-999e-492e-b03a-c46631aee23e" />|<img width="191" height="543" alt="이상치 변경후" src="https://github.com/user-attachments/assets/31db3d52-fd48-49fc-9097-665aed9e2d06" />|
+|<img width="192" height="511" alt="시도별 이상치 사진" src="https://github.com/user-attachments/assets/0a30f775-9949-4617-8335-f00e0efa893e" />|<img width="200" height="276" alt="image" src="https://github.com/user-attachments/assets/54995e18-16f3-4cb9-ae73-8e1cc53ba0f3" />|<img width="196" height="332" alt="스크린샷 2026-02-11 오전 12 50 55" src="https://github.com/user-attachments/assets/fef5f234-dd30-4877-bb11-ea7d094fa0b6" />|
+|<img width="133" height="505" alt="이상치 변경전" src="https://github.com/user-attachments/assets/103cd8c7-fa67-467e-908e-72aa8d03fa3b" />|<img width="217" height="508" alt="시군구 이상치 수정" src="https://github.com/user-attachments/assets/ebd8e7f7-9fa5-463f-a37b-3747adb32d67" />|<img width="191" height="543" alt="이상치 변경후" src="https://github.com/user-attachments/assets/31db3d52-fd48-49fc-9097-665aed9e2d06" />|
+
 
 ### 4.1 데이터 조회
 <img width="403" height="365" alt="스크린샷 2026-02-10 201808" src="https://github.com/user-attachments/assets/a48dca90-1ec5-4e7d-b3d3-17b9cad4bd32" />
