@@ -107,16 +107,19 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 <img width="589" height="616" alt="리뷰 수 인기 대 만족도" src="https://github.com/user-attachments/assets/6fbd1263-923f-40d8-ab49-87b4bf711878" />
 
 ### 관광객 수와 소비금액의 관계
-<img width="686" height="592" alt="스크린샷 2026-02-10 192426" src="https://github.com/user-attachments/assets/361fb623-4937-469d-b645-510e966b09bb" />
+<img width="676" height="578" alt="스크린샷 2026-02-10 192426" src="https://github.com/user-attachments/assets/5ac1b642-0259-4724-8dd6-c017424fe02f" />
 
 ### 혼동 행렬
-<img width="779" height="492" alt="스크린샷 2026-02-10 192056" src="https://github.com/user-attachments/assets/a9c34b6a-65e6-41ea-b190-107111aac0fd" />
+<img width="765" height="481" alt="스크린샷 2026-02-10 192056" src="https://github.com/user-attachments/assets/e47f451a-2d6c-4ce3-80d4-bb34dab83d30" />
+
 
 ### 예측에 영향이 큰 변수 상위 5가지
-<img width="1237" height="734" alt="스크린샷 2026-02-10 192038" src="https://github.com/user-attachments/assets/15573de9-c186-47b0-a1b7-d0e8e3b1961b" />
+<img width="1222" height="718" alt="스크린샷 2026-02-10 192038" src="https://github.com/user-attachments/assets/33b46e26-8f39-4493-bef5-dc1271b2380c" />
+
 
 ### 예측에 따른 상승 확률이 높은 / 낮은 지역 10개의 지역
-<img width="1524" height="543" alt="스크린샷 2026-02-10 191936" src="https://github.com/user-attachments/assets/4b6f2762-f965-4580-82a3-be6d3db13e26" />
+<img width="1507" height="526" alt="스크린샷 2026-02-10 191936" src="https://github.com/user-attachments/assets/8f338371-79df-4a7e-872a-2ad250ff5aaa" />
+
 
 
 
