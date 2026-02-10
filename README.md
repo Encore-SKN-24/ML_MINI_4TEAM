@@ -1,4 +1,4 @@
-# ML_MINI_4TEAM
+<img width="1300" height="623" alt="관광 효율" src="https://github.com/user-attachments/assets/08c44eff-c8fe-439b-a756-b8d478cdd5b6" /># ML_MINI_4TEAM
 
 # **프로젝트 명 : K-Culture SNS 언급 빈도에 따른 지역 관광 소비 성장률**
 
@@ -86,12 +86,23 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 ### 4-2. 그래프 시각화
 
 #### 막대그래프
+<img width="1143" height="658" alt="상위 15개 시- 관광소비금액 평균" src="https://github.com/user-attachments/assets/abdcdf9d-26d8-4cd8-8b20-82594ebc28ef" />
 
 #### 산점도
+<img width="1012" height="546" alt="리뷰수 대 관광소비금액 (선형 회귀선) 관계" src="https://github.com/user-attachments/assets/445f027a-ad5c-41f3-9311-a05c10c6da45" />
 
 #### 분포도
+<img width="1181" height="688" alt="시도명별로 리뷰 수 분포" src="https://github.com/user-attachments/assets/ae389151-8b43-49ff-8371-89f2a56aeae2" />
 
 #### 히트맵
+<img width="766" height="681" alt="주요 관광 및 sns 언급 빈도 지표 간 상관관계" src="https://github.com/user-attachments/assets/ae465dd0-77fc-4203-b56e-9e56ce232839" />
+
+#### 관광 효율성 
+<img width="1300" height="623" alt="관광 효율" src="https://github.com/user-attachments/assets/13e8709c-d93f-4209-b018-39af98fd053e" />
+
+### 만족도와 리뷰수 살펴보기
+<img width="589" height="616" alt="리뷰 수 인기 대 만족도" src="https://github.com/user-attachments/assets/6fbd1263-923f-40d8-ab49-87b4bf711878" />
+
 
 ### 5. 머신러닝 파이프라인
 
