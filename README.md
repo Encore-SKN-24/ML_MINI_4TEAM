@@ -1,11 +1,10 @@
-<img width="1300" height="623" alt="관광 효율" src="https://github.com/user-attachments/assets/08c44eff-c8fe-439b-a756-b8d478cdd5b6" /># ML_MINI_4TEAM
+# ML_MINI_4TEAM
 
 # **프로젝트 명 : K-Culture SNS 언급 빈도에 따른 지역 관광 소비 성장률**
 
 ## 💡**팀명**
 
 ### 아이이반스
-
 
 ## 🌟 **팀원 소개**  
 
@@ -26,6 +25,7 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 
 ### 1.2 프로젝트 목적
 ‘온라인(SNS)의 언급량이 오프라인의 소비 지출량에 영향을 끼칠 것이다’ 라는 가설을 통해 전국의 시군구별 각 관광지의 데이터를 분석하여 가설을 검증하는 활동을 진행하는것 뿐만 아니라 지속적인 성장을 머신러닝을 통해 학습하고 지역 성장률 예측을 통해 관련 정책 및 행사 유치 정보를 제공하는 것이 목적이다. 
+
 ## 2. 데이터 선택 및 구조
 
 ### 2.1 데이터 선택
@@ -75,8 +75,11 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 <img width="1589" height="166" alt="image" src="https://github.com/user-attachments/assets/742bee4b-aa63-4ec9-98db-650ee1e2546a" />
 
 ## 4. 데이터 전처리 및 EDA (탐색적 데이터 분석)
+|이상치 확인|이상치 수정|결과값|
+|---|---|---|
+|<img width="192" height="511" alt="시도별 이상치 사진" src="https://github.com/user-attachments/assets/0a30f775-9949-4617-8335-f00e0efa893e" />|<img width="217" height="508" alt="시군구 이상치 수정" src="https://github.com/user-attachments/assets/ebd8e7f7-9fa5-463f-a37b-3747adb32d67" />|<img width="196" height="332" alt="스크린샷 2026-02-11 오전 12 50 55" src="https://github.com/user-attachments/assets/fef5f234-dd30-4877-bb11-ea7d094fa0b6" />|
 
-<img width="192" height="511" alt="시도별 이상치 사진" src="https://github.com/user-attachments/assets/0a30f775-9949-4617-8335-f00e0efa893e" />
+
 
 
 ### 4.1 데이터 조회
@@ -105,6 +108,8 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 
 
 ### 5. 머신러닝 파이프라인
+<img width="474" height="208" alt="머신러닝 파이프라인" src="https://github.com/user-attachments/assets/1b185c16-9dba-4593-a652-9df85e0aba4a" />
+
 
 #### - 학습에 사용된 변수
 - SNS 언급 빈도 및 증감률
@@ -127,7 +132,6 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 
 #### - 최종 변수 결과
 <img width="628" height="1058" alt="image" src="https://github.com/user-attachments/assets/e1f2fa05-8917-43f1-8d90-dc3314fcb9d8" />
-
 
 #### - 교차 검증 결과
 <img width="606" height="161" alt="image" src="https://github.com/user-attachments/assets/77886b2f-2103-463c-a033-2ce51d306454" />
