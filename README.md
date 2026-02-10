@@ -9,13 +9,12 @@
 ## 🌟 **팀원 소개**  
 
 | 이름       | GitHub ID                           |
-|------------|------------------------------------|
+|-----------|------------------------------------|
 | 🧑‍💻 김규호  | https://github.com/kyu5KIm |
 | 👩‍💻 김수진  | https://github.com/KimSujin02 |
 | 👩‍💻 박정은  | https://github.com/brainkat |
 | 👨‍💻 이동민  | https://github.com/LeeDongMin0115 |
 | 👨‍💻 정석원  | https://github.com/JeongSW123 |
-
 
 ## 1. 프로젝트 개요
 <img width="639" height="826" alt="스크린샷 2026-02-10 193306" src="https://github.com/user-attachments/assets/24192bb2-4f93-4370-8854-81f10ed533c5" />
@@ -76,11 +75,9 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 
 ## 4. 데이터 전처리 및 EDA (탐색적 데이터 분석)
 |이상치 확인|이상치 수정|결과값|
-|---|---|---|
+|:---:|:---:|:---:|
 |<img width="192" height="511" alt="시도별 이상치 사진" src="https://github.com/user-attachments/assets/0a30f775-9949-4617-8335-f00e0efa893e" />|<img width="217" height="508" alt="시군구 이상치 수정" src="https://github.com/user-attachments/assets/ebd8e7f7-9fa5-463f-a37b-3747adb32d67" />|<img width="196" height="332" alt="스크린샷 2026-02-11 오전 12 50 55" src="https://github.com/user-attachments/assets/fef5f234-dd30-4877-bb11-ea7d094fa0b6" />|
-
-
-
+|<img width="133" height="505" alt="이상치 변경전" src="https://github.com/user-attachments/assets/103cd8c7-fa67-467e-908e-72aa8d03fa3b" />|<img width="217" height="508" alt="시군구 이상치 수정" src="https://github.com/user-attachments/assets/4a188523-999e-492e-b03a-c46631aee23e" />|<img width="191" height="543" alt="이상치 변경후" src="https://github.com/user-attachments/assets/31db3d52-fd48-49fc-9097-665aed9e2d06" />|
 
 ### 4.1 데이터 조회
 <img width="403" height="365" alt="스크린샷 2026-02-10 201808" src="https://github.com/user-attachments/assets/a48dca90-1ec5-4e7d-b3d3-17b9cad4bd32" />
@@ -112,16 +109,11 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 ### 혼동 행렬
 <img width="765" height="481" alt="스크린샷 2026-02-10 192056" src="https://github.com/user-attachments/assets/e47f451a-2d6c-4ce3-80d4-bb34dab83d30" />
 
-
 ### 예측에 영향이 큰 변수 상위 5가지
 <img width="1222" height="718" alt="스크린샷 2026-02-10 192038" src="https://github.com/user-attachments/assets/33b46e26-8f39-4493-bef5-dc1271b2380c" />
 
-
 ### 예측에 따른 상승 확률이 높은 / 낮은 지역 10개의 지역
 <img width="1507" height="526" alt="스크린샷 2026-02-10 191936" src="https://github.com/user-attachments/assets/8f338371-79df-4a7e-872a-2ad250ff5aaa" />
-
-
-
 
 ### 5. 머신러닝 파이프라인
 <img width="474" height="208" alt="머신러닝 파이프라인" src="https://github.com/user-attachments/assets/1b185c16-9dba-4593-a652-9df85e0aba4a" />
