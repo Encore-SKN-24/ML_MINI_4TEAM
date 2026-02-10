@@ -106,6 +106,19 @@ SNS의 영향력이 지속적으로 상승하고 있는데 지금 전세계적�
 ### 만족도와 리뷰수 살펴보기
 <img width="589" height="616" alt="리뷰 수 인기 대 만족도" src="https://github.com/user-attachments/assets/6fbd1263-923f-40d8-ab49-87b4bf711878" />
 
+### 관광객 수와 소비금액의 관계
+<img width="686" height="592" alt="스크린샷 2026-02-10 192426" src="https://github.com/user-attachments/assets/361fb623-4937-469d-b645-510e966b09bb" />
+
+### 혼동 행렬
+<img width="779" height="492" alt="스크린샷 2026-02-10 192056" src="https://github.com/user-attachments/assets/a9c34b6a-65e6-41ea-b190-107111aac0fd" />
+
+### 예측에 영향이 큰 변수 상위 5가지
+<img width="1237" height="734" alt="스크린샷 2026-02-10 192038" src="https://github.com/user-attachments/assets/15573de9-c186-47b0-a1b7-d0e8e3b1961b" />
+
+### 예측에 따른 상승 확률이 높은 / 낮은 지역 10개의 지역
+<img width="1524" height="543" alt="스크린샷 2026-02-10 191936" src="https://github.com/user-attachments/assets/4b6f2762-f965-4580-82a3-be6d3db13e26" />
+
+
 
 ### 5. 머신러닝 파이프라인
 <img width="474" height="208" alt="머신러닝 파이프라인" src="https://github.com/user-attachments/assets/1b185c16-9dba-4593-a652-9df85e0aba4a" />
