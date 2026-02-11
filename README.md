@@ -118,13 +118,6 @@
 |:---:|
 |<img width="676" height="578" alt="스크린샷 2026-02-10 192426" src="https://github.com/user-attachments/assets/5ac1b642-0259-4724-8dd6-c017424fe02f" />|
 
-|예측에 영향이 큰 변수 상위 5가지|
-|:---:|
-|<img width="1222" height="718" alt="스크린샷 2026-02-10 192038" src="https://github.com/user-attachments/assets/33b46e26-8f39-4493-bef5-dc1271b2380c" />|
-
-|예측에 따른 상승 확률이 높은 / 낮은 지역 10개의 지역|
-|<img width="1507" height="526" alt="스크린샷 2026-02-10 191936" src="https://github.com/user-attachments/assets/8f338371-79df-4a7e-872a-2ad250ff5aaa" />|
-
 ### 5. 머신러닝 파이프라인
 <img width="474" height="208" alt="머신러닝 파이프라인" src="https://github.com/user-attachments/assets/1b185c16-9dba-4593-a652-9df85e0aba4a" />
 
@@ -147,6 +140,13 @@
 |<img width="628" height="1058" alt="image" src="https://github.com/user-attachments/assets/e1f2fa05-8917-43f1-8d90-dc3314fcb9d8" />|
 |교차 검증 결과|
 |<img width="606" height="161" alt="image" src="https://github.com/user-attachments/assets/77886b2f-2103-463c-a033-2ce51d306454" />|
+
+|예측에 영향이 큰 변수 상위 5가지|
+|:---:|
+|<img width="1222" height="718" alt="스크린샷 2026-02-10 192038" src="https://github.com/user-attachments/assets/33b46e26-8f39-4493-bef5-dc1271b2380c" />|
+
+|예측에 따른 상승 확률이 높은 / 낮은 지역 10개의 지역|
+|<img width="1507" height="526" alt="스크린샷 2026-02-10 191936" src="https://github.com/user-attachments/assets/8f338371-79df-4a7e-872a-2ad250ff5aaa" />|
 
 
 ## 6. 최종 인사이트 및 정책적 제언
