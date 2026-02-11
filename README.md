@@ -109,11 +109,11 @@
 |<img width="1300" height="623" alt="관광 효율" src="https://github.com/user-attachments/assets/13e8709c-d93f-4209-b018-39af98fd053e" />|
 |서울과 부산 등 대도시를 중심으로 관광객당 소비가 높게 나타남|
 
-|만족도와 리뷰수 살펴보기|
+<!-- |만족도와 리뷰수 살펴보기|
 |:---:|
 |<img width="589" height="616" alt="리뷰 수 인기 대 만족도" src="https://github.com/user-attachments/assets/6fbd1263-923f-40d8-ab49-87b4bf711878" />|
 |리뷰 수가 많다고 해서 평점이 반드시 비례해서 높은 것은 아님을 보여줌|
-
+-->
 |관광객 수와 소비금액의 관계|
 |:---:|
 |<img width="676" height="578" alt="스크린샷 2026-02-10 192426" src="https://github.com/user-attachments/assets/5ac1b642-0259-4724-8dd6-c017424fe02f" />|
